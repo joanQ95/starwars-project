@@ -1,0 +1,16 @@
+.logo{
+    width: 100px;
+}
+
+.div-ul{
+    align-items: center;
+    gap: 1rem;
+}
+
+
+.link{
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    padding: 0;
+}
